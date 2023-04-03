@@ -2284,5 +2284,16 @@ a.move-top span {
         font-size: 1.4em;
     }
 }
+.companies{
+    display: flex;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+}
+.image{
+    width: 95vw;
+    max-width: none;
+    padding-bottom: 25px;
+}
 
 /*--//responsive--*/
