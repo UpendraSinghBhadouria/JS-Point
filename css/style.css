@@ -2295,5 +2295,8 @@ a.move-top span {
     max-width: none;
     padding-bottom: 25px;
 }
-
+.g-form{
+    width: inherit;
+    height: 350px;
+}
 /*--//responsive--*/
